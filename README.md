@@ -29,7 +29,7 @@ Cette application console permet de gérer des événements, des clients et des 
 
     Allez dans le dossier cloné :
 
-    `cd TpBilletterie`
+    `cd C#-Billetterie`
 
 3.  **Restaurer les dépendances (si nécessaire)**
 
