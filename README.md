@@ -86,6 +86,8 @@ TpBilletterie/
    - Sélectionnez un client et un événement pour réserver un billet.
 5. Afficher les billets d'un événement :
    - Vous pourrez voir la liste des clients ayant réservé pour un événement donné.
+6. Afficher la liste des événements :
+   - Vous pourrez voir la liste des differents événement de créé
 
 **Gestion des erreurs**
 
