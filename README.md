@@ -61,7 +61,7 @@ TpBilletterie/
 │   └── NotFoundException.cs  # Exception personnalisée si un élément n'est pas trouvé
 │
 ├── Program.cs            # Point d'entrée avec l'IHM console
-├── TpBilletterie.sln     # Fichier solution .NET
+├── C#-Billetterie.sln     # Fichier solution .NET
 └── README.md             # Ce fichier explicatif
 ```
 
