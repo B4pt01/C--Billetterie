@@ -1,0 +1,14 @@
+C:\Users\Baptiste\source\repos\C#-Billetterie\bin\Debug\net8.0\C#-Billetterie.exe
+C:\Users\Baptiste\source\repos\C#-Billetterie\bin\Debug\net8.0\C#-Billetterie.deps.json
+C:\Users\Baptiste\source\repos\C#-Billetterie\bin\Debug\net8.0\C#-Billetterie.runtimeconfig.json
+C:\Users\Baptiste\source\repos\C#-Billetterie\bin\Debug\net8.0\C#-Billetterie.dll
+C:\Users\Baptiste\source\repos\C#-Billetterie\bin\Debug\net8.0\C#-Billetterie.pdb
+C:\Users\Baptiste\source\repos\C#-Billetterie\obj\Debug\net8.0\C#-Billetterie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baptiste\source\repos\C#-Billetterie\obj\Debug\net8.0\C#-Billetterie.AssemblyInfoInputs.cache
+C:\Users\Baptiste\source\repos\C#-Billetterie\obj\Debug\net8.0\C#-Billetterie.AssemblyInfo.cs
+C:\Users\Baptiste\source\repos\C#-Billetterie\obj\Debug\net8.0\C#-Billetterie.csproj.CoreCompileInputs.cache
+C:\Users\Baptiste\source\repos\C#-Billetterie\obj\Debug\net8.0\C#-Billetterie.dll
+C:\Users\Baptiste\source\repos\C#-Billetterie\obj\Debug\net8.0\refint\C#-Billetterie.dll
+C:\Users\Baptiste\source\repos\C#-Billetterie\obj\Debug\net8.0\C#-Billetterie.pdb
+C:\Users\Baptiste\source\repos\C#-Billetterie\obj\Debug\net8.0\C#-Billetterie.genruntimeconfig.cache
+C:\Users\Baptiste\source\repos\C#-Billetterie\obj\Debug\net8.0\ref\C#-Billetterie.dll
