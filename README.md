@@ -23,7 +23,7 @@ Cette application console permet de gérer des événements, des clients et des 
 
     Clonez ce projet depuis le dépôt GitHub ou téléchargez-le manuellement :
 
-    git clone [https://github.com/ton-compte/tpbilletterie.git](https://github.com/B4pt01/C--Billetterie.git)
+    git clone [https://github.com/B4pt01/C--Billetterie.git](https://github.com/B4pt01/C--Billetterie.git)
 
 2.  **Accéder au dossier du projet**
 
